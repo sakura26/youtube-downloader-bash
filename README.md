@@ -13,6 +13,8 @@ Video downloader usage:
 `$ bash getYoutube.sh <video_sn>`  
 Playlist downloader usage:  
 `$ bash getPlaylist.sh <playlist_sn>`  
+To re-download all failed script again  
+`$ bash updateFaillist.sh <path_of_playlist_folder>`  
 
 ## Example
 `https://www.youtube.com/watch?v=ztCcJhJS8Q8&list=PLBSg1sI2PFmGdjI6x-iehbCzoXmjMCCOW&index=23`  
